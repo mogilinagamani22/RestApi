@@ -1,0 +1,13 @@
+//express js is a framework
+touch app.js
+touch index.html
+
+npm init/npm init -y
+
+npm i express
+
+nodemon / node app.js
+
+1. fileSystem Modules
+2.params and query
+3.API'S using express js and mysql
